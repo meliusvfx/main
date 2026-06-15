@@ -511,7 +511,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="py-4 px-6 border-t border-zinc-900 text-center text-zinc-600 text-xs">
-        <p>© {new Date().getFullYear()} REISUVFX. {t.footer.rights}</p>
+        <p>© {new Date().getFullYear()} MELIUSVFX. {t.footer.rights}</p>
         <p className="mt-1">{t.footer.tagline}</p>
       </footer>
     </div>
